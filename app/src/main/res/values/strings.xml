@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Akun Toko</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!--TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="halaman_main_content">Profil</string>
+    <string name="halaman_tambah_produk">Ini Halaman Produk</string>
+    <string name="halaman_send">Ini Halaman Send</string>
+    <string name="nama_toko">TokoAgro</string>
+    <string name="Pemilik">Budi</string>
+    <string name="inbox">Inbox</string>
+    <string name="tambahProduk">Tambah Produk</string>
+    <string name="send">Send</string>
+    <string name="halaman_help">Ini Halaman Help</string>
+    <string name="halaman_setting">Ini Halaman Settings</string>
+    <string name="controls">Controls</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+
+</resources>
